@@ -1,0 +1,15 @@
+F:\Common-Development-Projects\Project.BootcampImpulse\project-dotnet-rpg\bin\Debug\net6.0\project-dotnet-rpg.exe
+F:\Common-Development-Projects\Project.BootcampImpulse\project-dotnet-rpg\bin\Debug\net6.0\project-dotnet-rpg.deps.json
+F:\Common-Development-Projects\Project.BootcampImpulse\project-dotnet-rpg\bin\Debug\net6.0\project-dotnet-rpg.runtimeconfig.json
+F:\Common-Development-Projects\Project.BootcampImpulse\project-dotnet-rpg\bin\Debug\net6.0\project-dotnet-rpg.dll
+F:\Common-Development-Projects\Project.BootcampImpulse\project-dotnet-rpg\bin\Debug\net6.0\project-dotnet-rpg.pdb
+F:\Common-Development-Projects\Project.BootcampImpulse\project-dotnet-rpg\obj\Debug\net6.0\project-dotnet-rpg.csproj.AssemblyReference.cache
+F:\Common-Development-Projects\Project.BootcampImpulse\project-dotnet-rpg\obj\Debug\net6.0\project-dotnet-rpg.GeneratedMSBuildEditorConfig.editorconfig
+F:\Common-Development-Projects\Project.BootcampImpulse\project-dotnet-rpg\obj\Debug\net6.0\project-dotnet-rpg.AssemblyInfoInputs.cache
+F:\Common-Development-Projects\Project.BootcampImpulse\project-dotnet-rpg\obj\Debug\net6.0\project-dotnet-rpg.AssemblyInfo.cs
+F:\Common-Development-Projects\Project.BootcampImpulse\project-dotnet-rpg\obj\Debug\net6.0\project-dotnet-rpg.csproj.CoreCompileInputs.cache
+F:\Common-Development-Projects\Project.BootcampImpulse\project-dotnet-rpg\obj\Debug\net6.0\project-dotnet-rpg.dll
+F:\Common-Development-Projects\Project.BootcampImpulse\project-dotnet-rpg\obj\Debug\net6.0\refint\project-dotnet-rpg.dll
+F:\Common-Development-Projects\Project.BootcampImpulse\project-dotnet-rpg\obj\Debug\net6.0\project-dotnet-rpg.pdb
+F:\Common-Development-Projects\Project.BootcampImpulse\project-dotnet-rpg\obj\Debug\net6.0\project-dotnet-rpg.genruntimeconfig.cache
+F:\Common-Development-Projects\Project.BootcampImpulse\project-dotnet-rpg\obj\Debug\net6.0\ref\project-dotnet-rpg.dll
